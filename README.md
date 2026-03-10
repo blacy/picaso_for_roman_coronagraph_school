@@ -5,3 +5,5 @@ To get started you can clone this repository and open A_introduction_and_setup.i
 NOTE: It contains instructions to install either on your own machine or with Google Co Lab, unfortunately, Co Lab seems to be struggling with PICASO's SQL connection to the opacity database at this time. You will need to do a local install for now. 
 
 Accompanying reference data for this PICASO tutorial is here: https://zenodo.org/records/18892896 or can be downloaded from Arthur's hard drive.
+
+The latest release of picaso is described here: https://arxiv.org/abs/2602.22468 
