@@ -6,4 +6,4 @@ NOTE: It contains instructions to install either on your own machine or with Goo
 
 Accompanying reference data for this PICASO tutorial is here: https://zenodo.org/records/18892896 or can be downloaded from Arthur's hard drive.
 
-The latest release of picaso is described here: https://arxiv.org/abs/2602.22468 
+The latest release of PICASO is described here: https://arxiv.org/abs/2602.22468 
