@@ -1,4 +1,4 @@
-Tutorial notebooks providing a crash course through the basic PICASO procedures needed to assess Roman-CGI target’s observability (in terms of contrast ratio) and science prospects. These draw heavily from the documentation maintained by the picaso team, which can be found here https://natashabatalha.github.io/picaso/tutorials.html#
+Tutorial notebooks A-C provide a crash course through the basic PICASO procedures needed to assess Roman-CGI target’s observability (in terms of contrast ratio) and science prospects. These draw heavily from the documentation maintained by the picaso team, which can be found here https://natashabatalha.github.io/picaso/tutorials.html#
 
 To get started you can clone this repository and open A_introduction_and_setup.ipynb, or just click on notebook A_introduction_and_setup.ipynb within this github repository. It will walk you through installation. 
 
