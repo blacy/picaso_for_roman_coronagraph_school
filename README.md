@@ -2,8 +2,6 @@ Tutorial notebooks A-C provide a crash course through the basic PICASO procedure
 
 To get started you can clone this repository and open A_introduction_and_setup.ipynb, or just click on notebook A_introduction_and_setup.ipynb within this github repository. It will walk you through installation. 
 
-NOTE: It contains instructions to install either on your own machine or with Google Co Lab, but, unfortunately, Co Lab seems to be struggling with PICASO's SQL connection to the opacity database at this time. You will need to do a local install of PICASO for now. 
+Accompanying reference data for this PICASO tutorial is here: https://zenodo.org/records/18892896.
 
-Accompanying reference data for this PICASO tutorial is here: https://zenodo.org/records/18892896 or can be downloaded from Arthur's hard drive.
-
-The latest release of PICASO is described here: https://arxiv.org/abs/2602.22468 
+The latest release of PICASO is described in Mang et al 2026: https://arxiv.org/abs/2602.22468 
